@@ -1,0 +1,1 @@
+const newRoute = '/new';
